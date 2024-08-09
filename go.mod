@@ -1,5 +1,5 @@
 module github.com/DevKayoS/websocket-go
 
-go 1.13
+go 1.22.6
 
-require github.com/jackc/tern/v2 v2.2.1 // indirect
+require github.com/joho/godotenv v1.5.1
